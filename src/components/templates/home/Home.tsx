@@ -1,5 +1,4 @@
-import { CheckCircleIcon, SettingsIcon } from '@chakra-ui/icons';
-import { Heading, VStack, List, ListIcon, ListItem } from '@chakra-ui/react';
+import { Heading } from '@chakra-ui/react';
 import Head from 'next/head';
 import { Box, Container, Text, Button, Stack, Icon, useColorModeValue, createIcon } from '@chakra-ui/react';
 
